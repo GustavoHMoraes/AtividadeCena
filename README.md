@@ -1,1 +1,57 @@
 # AtividadeCena
+Cauã Magalhães e Gustavo Henrique
+
+# Link para o drive
+
+https://drive.google.com/file/d/1MVlsc42ZZATcAwbOPxDe2zNz_yRgz8G8/view?usp=drive_link
+
+# Descrição
+
+Está e uma cena no Unity 3d, onde o objetivo é passar de um labirinto, e encontrar o final para uma recompensa.
+
+# Cena
+
+Para a criação desta cena, foram utilizados GameObjects , assests gratuitos da Unity store, Objetos e personagem modelados no blender.
+
+# GameObjects
+
+<h1>Feitos no blender.</h1>
+
+Sapos.
+<img src="img/Sapos.png" width = "200" height = "200">
+<img src="img/Mulher-sapo.png" width = "200" height = "200">  
+
+Labirinto.
+<img src="img/Labirinto.png" width = "200" height = "200"> 
+
+Textos.
+<img src="img/Texto-1.png" width = "300" height = "200">
+<img src="img/Texto-2.png" width = "200" height = "200">  
+<br>
+
+<h1>Assets</h1>
+
+Natureza.
+<img src="img/Natureza.png" width = "200" height = "200">
+
+Báus.
+<img src="img/Bau-Secreto.png" width = "200" height = "200">
+<img src="img/Bau-fim.png" width = "200" height = "200">
+<br>
+
+<h1>Feitos no Unity</h1>
+Luzes utilizadas: Directional Light, e 2 Point Lights para os Báus.
+Camera, para seguir o personagem.
+Materiais.
+<img src="img/Materiais.png" width = "400" height = "200">
+
+Coração: foram utilizados dois 3D Objects de "Capsule"
+<img src="img/Coracao.png" width = "200" height = "200">
+
+Paredes do fim, e chão foram feitos com cubos
+<br>
+
+# Script
+
+<h1>Movimento</h1>
+<img src="img/Player.png" width = "200" height = "200">
