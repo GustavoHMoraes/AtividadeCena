@@ -3,7 +3,7 @@ Cauã Magalhães e Gustavo Henrique
 
 # Link para o drive
 
-https://drive.google.com/file/d/1MVlsc42ZZATcAwbOPxDe2zNz_yRgz8G8/view?usp=drive_link
+https://drive.google.com/file/d/1MVlsc42ZZATcAwbOPxDe2zNz_yRgz8G8/view?usp=sharing
 
 # Descrição
 
