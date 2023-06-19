@@ -48,6 +48,9 @@ Materiais.<br>
 Coração: foram utilizados dois 3D Objects de "Capsule"<br>
 <img src="img/Coracao.png" width = "200" height = "200">
 
+Partículas: foi utilizada para o báu do fim
+<img src="img/Particulas.png" width = "200" height = "200">
+
 Paredes do fim, e chão foram feitos com cubos
 <br>
 
